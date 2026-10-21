@@ -105,6 +105,7 @@ Prefix/datadir are baked into the binary via `NOCTALIA_INSTALL_PREFIX` /
 <prefix>/bin/noctalia
 <prefix>/share/noctalia/assets/...
 <prefix>/share/applications/dev.noctalia.Noctalia.desktop
+<prefix>/share/applications/assets/dev.noctalia.Noctalia.Annotator.desktop
 <prefix>/share/icons/hicolor/scalable/apps/noctalia.svg
 ```
 
